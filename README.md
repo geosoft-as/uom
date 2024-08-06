@@ -184,14 +184,14 @@ The table shows the connection between _unit name_,
 _unit symbol_ and _display symbol_:
 
 
-Unit name             | Unit symbol | Display symbol
---------------------------------------------------------
-microseconds per foot | us/ft       | &#181;s/ft
-ohm meter             | ohmm        | &#8486;&middot;m
-cubic centimeters     | cm3         | cm<sup>3</sup>
-degrees Celcius       | degC        | &deg;C
-meter/second squared  | m/s2        | m/s<sup>2</sup>
-etc.>                 |             |
+| Unit name             | Unit symbol | Display symbol   |
+|--------------------------------------------------------|
+| microseconds per foot | us/ft       | &#181;s/ft       |
+| ohm meter             | ohmm        | &#8486;&middot;m |
+| cubic centimeters     | cm3         | cm<sup>3</sup>   |
+| degrees Celcius       | degC        | &deg;C           |
+| meter/second squared  | m/s2        | m/s<sup>2</sup>  |
+| etc.                  |             |                  |
 
 
 As for unit aliases, it is possible for clients to supply their own
