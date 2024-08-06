@@ -185,7 +185,7 @@ _unit symbol_ and _display symbol_:
 
 
 | Unit name             | Unit symbol | Display symbol   |
-|--------------------------------------------------------|
+|-----------------------|-------------|------------------|
 | microseconds per foot | us/ft       | &#181;s/ft       |
 | ohm meter             | ohmm        | &#8486;&middot;m |
 | cubic centimeters     | cm3         | cm<sup>3</sup>   |
