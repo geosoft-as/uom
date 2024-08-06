@@ -183,17 +183,16 @@ but the table below indicates some of the many that doesn't.
 The table shows the connection between _unit name_,
 _unit symbol_ and _display symbol_:
 
-```html
-     <table>
-       <tr><td>Unit name</td>              <td>Unit symbol</td>  <td>Display symbol</td></tr>
-       <tr><td>microseconds per foot</td>  <td>us/ft</td>        <td>&#181;s/ft</td></tr>
-       <tr><td>ohm meter</td>              <td>ohmm</td>         <td>&#8486;&middot;m</tr>
-       <tr><td>cubic centimeters</td>      <td>cm3</td>          <td>cm<sup>3</sup></td></tr>
-       <tr><td>degrees Celcius</td>        <td>degC</td>         <td>&deg;C</td></tr>
-       <tr><td>meter/second squared</td>   <td>m/s2</td>         <td>m/s<sup>2</sup></td></tr>
-       <tr><td>etc.</td>                   <td>&nbsp;</td>       <td>&nbsp;</td></tr>
-     </table>
-```
+
+Unit name             | Unit symbol | Display symbol
+--------------------------------------------------------
+microseconds per foot | us/ft       | &#181;s/ft
+ohm meter             | ohmm        | &#8486;&middot;m
+cubic centimeters     | cm3         | cm<sup>3</sup>
+degrees Celcius       | degC        | &deg;C
+meter/second squared  | m/s2        | m/s<sup>2</sup>
+etc.>                 |             |
+
 
 As for unit aliases, it is possible for clients to supply their own
 specific display symbols through the `UnitManager.setDisplaySymbol()` method.
