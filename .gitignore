@@ -1,0 +1,5 @@
+#
+# General ignores is in $DEV_HOME/tools/Git/.gitignore_global
+#
+
+Uom*.jar
